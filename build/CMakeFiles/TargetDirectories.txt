@@ -1,3 +1,0 @@
-/pub/netdisk1/linpeng/Solver/ParaILP/build/CMakeFiles/ParaILP.dir
-/pub/netdisk1/linpeng/Solver/ParaILP/build/CMakeFiles/edit_cache.dir
-/pub/netdisk1/linpeng/Solver/ParaILP/build/CMakeFiles/rebuild_cache.dir
