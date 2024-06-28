@@ -1,6 +1,6 @@
 /*=====================================================================================
 
-    Filename:     LocalCon.cpp
+    Filename:     LocalCon.h
 
     Description:
         Version:  1.0

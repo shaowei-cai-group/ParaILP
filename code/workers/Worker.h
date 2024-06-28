@@ -1,6 +1,6 @@
 /*=====================================================================================
 
-    Filename:     LocalCon.cpp
+    Filename:     Worker.h
 
     Description:
         Version:  1.0

@@ -1,6 +1,6 @@
 /*=====================================================================================
 
-    Filename:     LocalCon.cpp
+    Filename:     Master.cpp
 
     Description:
         Version:  1.0
@@ -88,7 +88,7 @@ void Master::Solve()
   if (winner_tid != -1)
   {
     printf("o winner thread is %d\no found time is %.3f seconds.\no best found objective value is %s\n",
-           winner_tid, workerSet[winner_tid]->bestTime, itos(workerSet[winner_tid]->best_obj).c_str());
+           winner_tid, workerSet[winner_tid]->bestTime, itos(workerSet[winner_tid]->best_obj + modelVarUtil.objBias).c_str());
     workerSet[winner_tid]->PrintResult();
   }
   else
