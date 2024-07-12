@@ -9,6 +9,10 @@ chmod +x run
 1. \<instance.mps>: path for the ilp instance
 2. \<cutoff>: seconds to run
 
+## New Records for Open Instances
+1. https://miplib.zib.de/instance_details_bley_xs1.html
+
+
 ## Reference
 If you use ParaILP in an academic context, please acknowledge this and cite the following article.
 
